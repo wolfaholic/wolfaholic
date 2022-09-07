@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-Moving over from a long career of customer service, billing and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement late 2022. 
+Currently, contributing to dynamic web development projects using React, JavaScript, CSS, HTML, Express, and RESTful APIs! Feel free to check out my pinned projects or connect with me on LinkedIn to learn more.
 
-- 🔭 I’m currently working on ...my professional portfolio.
+- 🔭 I’m building my professional portfolio
 
-- 🌱 I’m currently learning ...React and reinforcing my knowledge of the fundamentals: CSS, HTML and JS.
+- 🌱 I’m currently learning ...React and reinforcing my knowledge of the fundamentals: CSS, HTML, and JSS.
 
-- 👯 I’m looking to collaborate on ...I am hoping that once I have a stronger confidence in my code that I can help and get in on an open source project or find a mentor to work with on a project that will help to reinforce my knowledge and help me grow as developer.
+- 👯 I’m interested in collaborating on open source projects
 
-- I am always looking on new ways to grow and learn. I am simultaniously while I learn web development, self-teaching UI design. 
+- I am always looking for new ways to grow and learn
 
-- I enjoy various hobbies that I look to blend in with my work, such as photography and graphic design. But I also enjoy writing short stories, reading, art of almost any kind. I enjoy being creative and I try to let that show through everything I do.
+Moving over from a long career in customer service, billing, and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement in late 2022. I enjoy various creative hobbies that I look to blend in with my work, such as photography and graphic design. Likewise, I also enjoy writing short stories, reading and appreciating art of almost any kind
 
 
 <h3 align="left">Connect with me:</h3>
