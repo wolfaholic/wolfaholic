@@ -5,7 +5,7 @@ Currently, contributing to dynamic web development projects using React, JavaScr
 
 - 🔭 I’m building my professional portfolio
 
-- 🌱 I’m currently learning ...React and reinforcing my knowledge of the fundamentals: CSS, HTML, and JSS.
+- 🌱 I’m currently learning ...Liquid and reinforcing my knowledge of the fundamentals: CSS, HTML, and JSS. I am interested in learning how to develop Emails using JS, CSS and HTML.
 
 - 👯 I’m interested in collaborating on open source projects
 
