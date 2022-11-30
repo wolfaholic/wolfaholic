@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melissa</h1>
+<h1 align="center">👋Hi , I'm Melissa</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 Currently, contributing to dynamic web development projects using React, JavaScript, CSS, HTML, Express, and RESTful APIs! Feel free to check out my pinned projects or connect with me on LinkedIn to learn more.
