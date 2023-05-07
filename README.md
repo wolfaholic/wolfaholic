@@ -9,7 +9,7 @@ Currently, contributing to dynamic web development projects using React, JavaScr
 - 👯 I’m interested in collaborating on open source projects
 - 📝 I am always looking for new ways to grow and learn
 
-Moving over from a long career in customer service, billing, and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement in late 2022. I enjoy various creative hobbies that I look to blend in with my work, such as photography and graphic design. Likewise, I also enjoy writing short stories, reading and appreciating art of almost any kind
+Moving over from a long career in customer service, billing, and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement this month (May 2023). I enjoy various creative hobbies that I look to blend in with my work, such as photography and graphic design. Likewise, I also enjoy writing short stories, reading and appreciating art of almost any kind
 
 
 <h3 align="left">Connect with me:</h3>
