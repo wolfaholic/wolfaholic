@@ -35,16 +35,7 @@ Interpersonal Skills
 
 
  
-### Connect With Me:
-Socials: 
-<p align="left">
-<a href="https://codepen.io/melissamackie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="melissamackie" height="30" width="40" /></a>
-<a href="https://twitter.com/codemackie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codemackie" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mmackie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mmackie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/melissa_mackie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="melissa_mackie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mmackie542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mmackie542" height="30" width="40" /></a>
-</p>
-
+ 
  
 
 
