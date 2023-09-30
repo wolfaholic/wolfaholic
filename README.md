@@ -1,4 +1,4 @@
-# Melissa Mackie 
+# Wolfaholic 
 **`Full-Stack Developer | Front-End Developer | Back-End Developer`**
 
 ##
@@ -18,15 +18,8 @@ Interpersonal Skills
 🔹 Creative and Graphic Design Skills using Figma, Adobe Creative Suite, Photography, Procreate
 🔹 Soft Skills include stress management, critical thinking, problem-solving, teamwork, communication, interpersonal skills, conflict resolution, empathetic listening, friendly demeanor, adaptability, rapport-building, Analytical thinking and research.
 
-☕️ Let’s connect over Virtual Coffee (or Tea)!
-</p>
-
-#
-<p align="left">
-<a href="https://docs.google.com/document/d/1-shVOjoOlQq7u8NIBQBxMce9EQgkb8HSRTHdh_h4kd4/edit" target="blank"><img align="center" src="https://flat.badgen.net/badge/=/MyResume" alt="melissamackie" height="120" width="120" /></a>
-<a href="https://www.linkedin.com/in/melissa-m-mackie" target="blank"><img align="center" src="https://flat.badgen.net/badge/Profile/LinkedIn" alt="melissamackie" height="120" width="120" /></a>
-</p>
  
+
 
 
 
